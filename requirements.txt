@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+youtube-transcript-api
+google-generativeai
+bcrypt
+openai-whisper
+yt-dlp
+ffmpeg-python
+groq
