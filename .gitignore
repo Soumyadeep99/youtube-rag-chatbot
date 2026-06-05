@@ -1,8 +1,8 @@
-echo ".env
+.env
 __pycache__/
 *.pyc
 vector_db/
 chat_history.db
 *.pem
 cookies/
-.streamlit/" > .gitignore
+.streamlit/
